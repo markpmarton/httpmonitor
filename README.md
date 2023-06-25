@@ -1,5 +1,3 @@
-# python-26052023-markpmarton
-
 # httpmonitor
 
 A simple HTTP monitoring tool with limited scheduling and regex finding capabilities.
