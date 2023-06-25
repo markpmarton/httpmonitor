@@ -1,0 +1,1 @@
+{"jobs": [{"name": "example_job", "url": "https://cnn.com", "method": "GET", "headers": {}, "body": {}, "expected_regex": "", "scheduled_interval": 30}]}
